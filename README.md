@@ -4,6 +4,8 @@ Helps predict if the weather conditions for the current day are good enough to s
 ## Research
 This section is dedicated to research found while working on this Hackathon.
 
+https://raw.githubusercontent.com/JustinElias/Ideal-Conditions-Hackathon/main/imgs/temps.png
+
 ### Temperature Requirements 🌡️
 <ul>
   <li>Corn can survive brief temperatures from 32F to over 112F</li>
