@@ -53,6 +53,7 @@ Libraries used to make this work
   <li><strong>Pandas.</strong> Helps with analysing data and creating dataframes</li>
   <li><strong>Sklearn.</strong> Machine Learning library that is used to importing important features</li>
   <li><strong>cv2.</strong> Outputs the final result.</li>
+  <li><strong>requests,json.</strong> These will be used for making API requests to the OpenWeatherMap API</li>
 </ul>
 
 ## Sources 📚
