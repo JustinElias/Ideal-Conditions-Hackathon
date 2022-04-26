@@ -28,12 +28,13 @@ This section is dedicated to research found while working on this Hackathon.
 </ul>
 
 ## Crop Sources
-https://www.extension.purdue.edu/extmedia/nch/nch-40.html
-https://www.agweb.com/news/crops/crop-production/will-cloudy-weather-damage-your-corn#:~:text=Restricted%20photosynthate%20supply%20caused%20by%20cloudy%20weather%20during%20pollination%20may,%22blanks%22%20on%20the%20cob
-
+<ul>
+  <li>https://www.extension.purdue.edu/extmedia/nch/nch-40.html</li>
+  <li>https://www.agweb.com/news/crops/crop-production/will-cloudy-weather-damage-your-corn#:~:text=Restricted%20photosynthate%20supply%20caused%20by%20cloudy%20weather%20during%20pollination%20may,%22blanks%22%20on%20the%20cob</li>
+</ul>
 
 ## Naive Bayes Sources
-https://scikit-learn.org/stable/modules/naive_bayes.html﻿
-https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
-
- ---
+<ul>
+  <li>https://scikit-learn.org/stable/modules/naive_bayes.html</li>
+  <li>https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/</li>
+</ul>
