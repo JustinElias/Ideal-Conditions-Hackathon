@@ -48,11 +48,11 @@ Notes on steps to take to implement Naive Bayes:
 Libraries used to make this work
 
 <ul>
-  <li>Numpy</li>
-  <li>matplotlib</li>
-  <li>Pandas</li>
-  <li>Sklearn</li>
-  <li>OpenPyxl</li>
+  <li><strong>NumPy.</strong> Library used when working with arrays</li>
+  <li><strong>matplotlib.</strong> Used for visualization of data. Used in this project for exploring the dataset</li>
+  <li><strong>Pandas.</strong> Helps with analysing data and creating dataframes</li>
+  <li><strong>Sklearn.</strong> Machine Learning library that is used to importing important features</li>
+  <li><strong>cv2.</strong> Outputs the final result.</li>
 </ul>
 
 ## Sources 📚
