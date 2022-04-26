@@ -4,7 +4,7 @@ Helps predict if the weather conditions for the current day are good enough to s
 ## Research
 This section is dedicated to research found while working on this Hackathon.
 
-![research](https://raw.githubusercontent.com/JustinElias/Ideal-Conditions-Hackathon/main/imgs/temps.png)
+![research](/imgs/temps.png)
 
 ### Temperature Requirements 🌡️
 <ul>
