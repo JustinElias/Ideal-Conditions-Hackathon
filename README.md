@@ -69,4 +69,5 @@ Libraries used to make this work
   <li>https://scikit-learn.org/stable/modules/naive_bayes.html</li>
   <li>https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/</li>
   <li>https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn</li>
+  <li>API Documentation: geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/
 </ul>
