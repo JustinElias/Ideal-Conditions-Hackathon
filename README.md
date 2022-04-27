@@ -4,6 +4,8 @@ Helps predict if the weather conditions for the current day are good enough to s
 ## Research
 This section is dedicated to research found while working on this Hackathon.
 
+![research](/imgs/temps.png)
+
 ### Temperature Requirements 🌡️
 <ul>
   <li>Corn can survive brief temperatures from 32F to over 112F</li>
@@ -69,6 +71,10 @@ Libraries used to make this work
   <li>https://scikit-learn.org/stable/modules/naive_bayes.html</li>
   <li>https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/</li>
   <li>https://www.datacamp.com/community/tutorials/naive-bayes-scikit-learn</li>
+</ul>
+
+### API Sources
+<ul>
   <li>API Documentation: http://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/</li>
   <li>API/GUI Documentation: https://www.geeksforgeeks.org/python-real-time-weather-detection-using-tkinter/?ref=lbp</li>
 </ul>
