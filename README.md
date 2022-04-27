@@ -78,3 +78,6 @@ Libraries used to make this work
   <li>API Documentation: http://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/</li>
   <li>API/GUI Documentation: https://www.geeksforgeeks.org/python-real-time-weather-detection-using-tkinter/?ref=lbp</li>
 </ul>
+
+![research](/imgs/Seed_Image.jpg)
+
